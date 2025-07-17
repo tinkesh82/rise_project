@@ -32,6 +32,6 @@ Modern e-commerce platforms require scalable and flexible databases to manage di
 
 ---
 
-## 📁 Project Structure
+
 
 
